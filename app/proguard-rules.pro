@@ -1,0 +1,3 @@
+-keep class dagger.hilt.** { *; }
+-keep class hilt_aggregated_deps.** { *; }
+-keep class com.serenare.domain.model.** { *; }

@@ -1,0 +1,3 @@
+## Nunca versionar a chave real.
+## Copie este arquivo para local.properties e preencha:
+GEMINI_API_KEY=
