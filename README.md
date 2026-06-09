@@ -46,6 +46,8 @@ gradle :app:assembleRelease
 
 Tambem ha workflow em `.github/workflows/android-release.yml` para gerar APK debug via GitHub Actions.
 
+O passo a passo reproduzivel para gerar APKs com GitHub Actions esta em [docs/android-native-apk-reproducible-guide.md](docs/android-native-apk-reproducible-guide.md).
+
 ## Privacidade
 
 - A chave Gemini nao e hardcoded no codigo-fonte.
