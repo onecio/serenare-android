@@ -11,7 +11,7 @@
 - `app/src/main/AndroidManifest.xml`: manifesto Android com permissoes essenciais e entrada principal.
 - `app/src/main/res/values/*`: tema escuro base.
 - `app/src/main/res/xml/data_extraction_rules.xml`: exclusao de backup para dados locais.
-- `app/src/main/res/raw/README.md`: instrucao para assets de audio locais.
+- `docs/audio-assets.md`: instrucao para assets de audio locais.
 - `app/src/main/res/drawable/*` e `app/src/main/res/mipmap-anydpi-v26/*`: icone adaptativo.
 - `app/src/main/java/com/serenare/SerenareApplication.kt`: aplicacao Hilt.
 - `app/src/main/java/com/serenare/MainActivity.kt`: navegacao, Home, modulos, ajuda imediata, biblioteca, historico e perfil.

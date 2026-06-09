@@ -19,7 +19,7 @@ Aplicativo Android nativo de autorregulacao emocional e sensorial, implementado 
 GEMINI_API_KEY=sua_chave
 ```
 
-4. Para assets locais, adicione em `app/src/main/res/raw/`:
+4. Para assets locais, adicione em `app/src/main/res/raw/` conforme [docs/audio-assets.md](docs/audio-assets.md):
 
 ```text
 breath_in.ogg
